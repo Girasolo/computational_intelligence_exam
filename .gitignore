@@ -1,0 +1,5 @@
+poetry.lock
+quarto/__pycache__
+__pycache__
+.Ds_Store
+actors/db*
