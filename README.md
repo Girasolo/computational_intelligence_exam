@@ -1,5 +1,6 @@
 #HOW TO RUN THE CODE
-extract the db with winrar, performing operation "extract here" on the file part1.rar contained in the folder actors
+
+extract the db with winrar, performing operation "extract here" on the file part1.rar contained in the folder actors/final_database
 execute the command "poetry run main.py"
 
 further explanation of the project are available on the report.
